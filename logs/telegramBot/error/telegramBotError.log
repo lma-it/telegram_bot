@@ -1,0 +1,39 @@
+2025-02-17 01:41:48 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при попытке отправить сообщение с inline кнопками. Тип исключения: FileNotFoundException. Причина: class path resource [app/tmp/SNP_Technology.png] cannot be resolved to URL because it does not exist
+2025-02-17 01:43:38 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при попытке отправить сообщение с inline кнопками. Тип исключения: FileNotFoundException. Причина: class path resource [app/tmp/SNP_Technology.png] cannot be resolved to URL because it does not exist
+2025-02-17 01:44:31 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при попытке отправить сообщение с inline кнопками. Тип исключения: FileNotFoundException. Причина: class path resource [SNP_Technology.png] cannot be resolved to URL because it does not exist
+2025-02-17 01:45:10 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при попытке отправить сообщение с inline кнопками. Тип исключения: FileNotFoundException. Причина: class path resource [app/tmp/SNP_Technology.png] cannot be resolved to URL because it does not exist
+2025-02-17 01:45:51 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при попытке отправить сообщение с inline кнопками. Тип исключения: FileNotFoundException. Причина: class path resource [app/tmp/SNP_Technology.png] cannot be resolved to URL because it does not exist
+2025-02-17 01:47:23 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при попытке отправить сообщение с inline кнопками. Тип исключения: FileNotFoundException. Причина: class path resource [home/michael/Telegram_Bot_for_SNP_Technology/app/tmp/SNP_Technology.png] cannot be resolved to URL because it does not exist
+2025-02-17 01:49:36 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при попытке отправить сообщение с inline кнопками. Тип исключения: FileNotFoundException. Причина: class path resource [home/michael/app/tmp/SNP_Technology.png] cannot be resolved to URL because it does not exist
+2025-02-17 01:51:23 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при создании файла для пользователя. Причина: null
+2025-02-17 01:51:23 [UserDataToDocument Telegram Executor] ERROR o.t.t.u.DefaultBotSession - Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+java.lang.NullPointerException: Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+	at org.telegram.telegrambots.meta.api.objects.InputFile.<init>(InputFile.java:64)
+	at org.lma_it.model.telegram.TelegramBot.onUpdateReceived(TelegramBot.java:214)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2025-02-17 01:55:25 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при создании файла для пользователя. Причина: resources/template.docx (Нет такого файла или каталога)
+2025-02-17 01:55:25 [UserDataToDocument Telegram Executor] ERROR o.t.t.u.DefaultBotSession - Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+java.lang.NullPointerException: Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+	at org.telegram.telegrambots.meta.api.objects.InputFile.<init>(InputFile.java:64)
+	at org.lma_it.model.telegram.TelegramBot.onUpdateReceived(TelegramBot.java:214)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2025-02-17 01:57:32 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при создании файла для пользователя. Причина: resources/template.docx (Нет такого файла или каталога)
+2025-02-17 01:57:32 [UserDataToDocument Telegram Executor] ERROR o.t.t.u.DefaultBotSession - Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+java.lang.NullPointerException: Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+	at org.telegram.telegrambots.meta.api.objects.InputFile.<init>(InputFile.java:64)
+	at org.lma_it.model.telegram.TelegramBot.onUpdateReceived(TelegramBot.java:214)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2025-02-17 01:58:19 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при создании файла для пользователя. Причина: null
+2025-02-17 01:58:19 [UserDataToDocument Telegram Executor] ERROR o.t.t.u.DefaultBotSession - Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+java.lang.NullPointerException: Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+	at org.telegram.telegrambots.meta.api.objects.InputFile.<init>(InputFile.java:64)
+	at org.lma_it.model.telegram.TelegramBot.onUpdateReceived(TelegramBot.java:214)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)

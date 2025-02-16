@@ -1,0 +1,18 @@
+<included>
+    <!-- Файловый аппендер с архивацией -->
+    <appender name="FILE-ROLLING" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/app/info/appInfo.log</file> <!-- Путь к файлу логов -->
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>logs/app.%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>10MB</maxFileSize> <!-- Максимальный размер одного файла -->
+            <totalSizeCap>1GB</totalSizeCap> <!-- Общий лимит на размер архивных файлов -->
+            <maxHistory>60</maxHistory> <!-- Хранить логи в течение 60 дней -->
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>${filePattern}</pattern>
+        </encoder>
+
+    </appender>
+</included>

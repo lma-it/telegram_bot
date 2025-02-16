@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <!--    Область с настройками, в данном случае присвоил переменной filePattern шаблон для построения, потому что он используется часто-->
+    <property name="filePattern" value="%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"/>
+
+    <include resource="appenders/app-appender.xml"/>
+    <include resource="appenders/telegrambot-appender.xml"/>
+    <include resource="appenders/telegraminitializer-appender.xml"/>
+
+    <root level="INFO">
+        <appender-ref ref="TELEGRAM-INFO-FILE-ROLLING"/>
+        <appender-ref ref="TELEGRAM-DEBUG-FILE-ROLLING"/>
+        <appender-ref ref="TELEGRAM-ERROR-FILE-ROLLING"/>
+        <appender-ref ref="TELEGRAMINITIALIZER-INFO-FILE-ROLLING"/>
+        <appender-ref ref="TELEGRAMINITIALIZER-DEBUG-FILE-ROLLING"/>
+        <appender-ref ref="TELEGRAMINITIALIZER-ERROR-FILE-ROLLING"/>
+    </root>
+
+    <logger name="org.lma_it.model.telegram.TelegramBot" level="DEBUG" additivity="false">
+        <appender-ref ref="TELEGRAM-INFO-FILE-ROLLING"/>
+        <appender-ref ref="TELEGRAM-DEBUG-FILE-ROLLING"/>
+        <appender-ref ref="TELEGRAM-ERROR-FILE-ROLLING"/>
+    </logger>
+
+    <logger name="org.lma_it.util.config.TelegramBotInitializer" level="DEBUG" additivity="false">
+        <appender-ref ref="TELEGRAMINITIALIZER-INFO-FILE-ROLLING"/>
+        <appender-ref ref="TELEGRAMINITIALIZER-DEBUG-FILE-ROLLING"/>
+        <appender-ref ref="TELEGRAMINITIALIZER-ERROR-FILE-ROLLING"/>
+    </logger>
+
+
+    <logger name="ROOT" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-ROLLING"/>
+    </logger>
+
+
+
+</configuration>

@@ -1,0 +1,28 @@
+2025-02-17 01:51:23 [UserDataToDocument Telegram Executor] ERROR o.t.t.u.DefaultBotSession - Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+java.lang.NullPointerException: Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+	at org.telegram.telegrambots.meta.api.objects.InputFile.<init>(InputFile.java:64)
+	at org.lma_it.model.telegram.TelegramBot.onUpdateReceived(TelegramBot.java:214)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2025-02-17 01:55:25 [UserDataToDocument Telegram Executor] ERROR o.t.t.u.DefaultBotSession - Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+java.lang.NullPointerException: Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+	at org.telegram.telegrambots.meta.api.objects.InputFile.<init>(InputFile.java:64)
+	at org.lma_it.model.telegram.TelegramBot.onUpdateReceived(TelegramBot.java:214)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2025-02-17 01:57:32 [UserDataToDocument Telegram Executor] ERROR o.t.t.u.DefaultBotSession - Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+java.lang.NullPointerException: Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+	at org.telegram.telegrambots.meta.api.objects.InputFile.<init>(InputFile.java:64)
+	at org.lma_it.model.telegram.TelegramBot.onUpdateReceived(TelegramBot.java:214)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2025-02-17 01:58:19 [UserDataToDocument Telegram Executor] ERROR o.t.t.u.DefaultBotSession - Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+java.lang.NullPointerException: Cannot invoke "java.io.File.getName()" because "mediaFile" is null
+	at org.telegram.telegrambots.meta.api.objects.InputFile.<init>(InputFile.java:64)
+	at org.lma_it.model.telegram.TelegramBot.onUpdateReceived(TelegramBot.java:214)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)

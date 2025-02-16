@@ -1,0 +1,217 @@
+2025-02-17 01:41:41 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:41:41 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:41:42 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:41:42 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:41:48 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:41:48 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:41:48 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:41:48 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:43:31 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:43:31 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:43:32 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:43:32 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:43:37 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:43:37 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:43:37 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:43:38 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:44:27 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:44:27 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:44:28 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:44:28 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:44:30 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:44:30 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:44:30 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:44:31 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:45:08 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:45:08 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:45:09 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:45:09 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:45:10 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:45:10 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:45:10 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:45:10 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:45:49 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:45:49 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:45:49 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:45:49 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:45:51 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:45:51 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:45:51 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:45:51 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:47:20 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:47:21 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:47:21 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:47:21 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:47:23 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:47:23 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:47:23 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:47:23 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:49:33 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:49:34 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:49:34 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:49:34 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:49:35 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:49:35 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:49:35 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:49:36 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:50:51 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:50:52 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:50:52 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:50:52 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:50:54 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:50:54 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:50:54 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:50:54 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:50:57 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в callbackQuery: processingOfPersonalData
+2025-02-17 01:50:57 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Приступим к регистрации для получения оффера в SNP Technology.
+Введите пожалуйста свое имя:
+2025-02-17 01:51:01 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Имя зарегистрировано.
+Ваше имя: Михаил
+Введите фамилию.
+2025-02-17 01:51:03 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Фамилия зарегистрирована.
+Ваша фамилия: Лубенцов
+Введите отчество.*
+2025-02-17 01:51:03 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: 
+*Не обязательное поле, можно ввести /skip для пропуска.
+2025-02-17 01:51:05 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Отчество зарегистрировано.
+Ваше отчество: Александрович
+Введите дату рождения в формате*: 'дд.мм.гггг.'.
+
+*Очень важно соблюдать формат.
+2025-02-17 01:51:12 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Ваша дата рождения: 1990-07-21
+2025-02-17 01:51:12 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Лог из блока регистрации пола.
+2025-02-17 01:51:13 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Ваш пол успешно сохранен.
+Ваш пол: Мужчина.
+Загрузите Ваше фото.
+2025-02-17 01:51:22 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - В блоке обработки фото, после успешных предыдущих пунктов.
+2025-02-17 01:51:23 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Лог из блока сохранения пользователя в БД (если файл фото).
+2025-02-17 01:51:23 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Размер загруженного файла: 9450. Пустой ли template: true
+2025-02-17 01:55:00 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:55:01 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:55:01 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:55:01 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:55:03 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:55:03 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:55:03 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:55:03 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:55:04 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в callbackQuery: processingOfPersonalData
+2025-02-17 01:55:04 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Приступим к регистрации для получения оффера в SNP Technology.
+Введите пожалуйста свое имя:
+2025-02-17 01:55:07 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Имя зарегистрировано.
+Ваше имя: Михаил
+Введите фамилию.
+2025-02-17 01:55:11 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Фамилия зарегистрирована.
+Ваша фамилия: Лубенцов
+Введите отчество.*
+2025-02-17 01:55:11 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: 
+*Не обязательное поле, можно ввести /skip для пропуска.
+2025-02-17 01:55:15 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Отчество зарегистрировано.
+Ваше отчество: Александрович
+Введите дату рождения в формате*: 'дд.мм.гггг.'.
+
+*Очень важно соблюдать формат.
+2025-02-17 01:55:19 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Ваша дата рождения: 1990-07-21
+2025-02-17 01:55:20 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Лог из блока регистрации пола.
+2025-02-17 01:55:21 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Ваш пол успешно сохранен.
+Ваш пол: Мужчина.
+Загрузите Ваше фото.
+2025-02-17 01:55:24 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - В блоке обработки фото, после успешных предыдущих пунктов.
+2025-02-17 01:55:24 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Лог из блока сохранения пользователя в БД (если файл фото).
+2025-02-17 01:55:25 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Размер загруженного файла: 0. Пустой ли template: false
+2025-02-17 01:57:12 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:57:12 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:57:13 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:57:13 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:57:15 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:57:15 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:57:15 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:57:15 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:57:17 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в callbackQuery: processingOfPersonalData
+2025-02-17 01:57:17 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Приступим к регистрации для получения оффера в SNP Technology.
+Введите пожалуйста свое имя:
+2025-02-17 01:57:20 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Имя зарегистрировано.
+Ваше имя: Михаил
+Введите фамилию.
+2025-02-17 01:57:22 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Фамилия зарегистрирована.
+Ваша фамилия: Лубенцов
+Введите отчество.*
+2025-02-17 01:57:22 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: 
+*Не обязательное поле, можно ввести /skip для пропуска.
+2025-02-17 01:57:24 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Отчество зарегистрировано.
+Ваше отчество: Александрович
+Введите дату рождения в формате*: 'дд.мм.гггг.'.
+
+*Очень важно соблюдать формат.
+2025-02-17 01:57:27 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Ваша дата рождения: 1990-07-21
+2025-02-17 01:57:27 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Лог из блока регистрации пола.
+2025-02-17 01:57:28 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Ваш пол успешно сохранен.
+Ваш пол: Мужчина.
+Загрузите Ваше фото.
+2025-02-17 01:57:31 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - В блоке обработки фото, после успешных предыдущих пунктов.
+2025-02-17 01:57:32 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Лог из блока сохранения пользователя в БД (если файл фото).
+2025-02-17 01:57:32 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Размер загруженного файла: 0. Пустой ли template: false
+2025-02-17 01:57:59 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 01:57:59 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:58:00 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:58:00 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 01:58:01 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 01:58:01 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 01:58:01 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 01:58:01 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 01:58:03 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в callbackQuery: processingOfPersonalData
+2025-02-17 01:58:03 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Приступим к регистрации для получения оффера в SNP Technology.
+Введите пожалуйста свое имя:
+2025-02-17 01:58:05 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Имя зарегистрировано.
+Ваше имя: Михаил
+Введите фамилию.
+2025-02-17 01:58:07 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Фамилия зарегистрирована.
+Ваша фамилия: Лубенцов
+Введите отчество.*
+2025-02-17 01:58:07 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: 
+*Не обязательное поле, можно ввести /skip для пропуска.
+2025-02-17 01:58:09 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Отчество зарегистрировано.
+Ваше отчество: Александрович
+Введите дату рождения в формате*: 'дд.мм.гггг.'.
+
+*Очень важно соблюдать формат.
+2025-02-17 01:58:13 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Ваша дата рождения: 1990-07-21
+2025-02-17 01:58:13 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Лог из блока регистрации пола.
+2025-02-17 01:58:15 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Ваш пол успешно сохранен.
+Ваш пол: Мужчина.
+Загрузите Ваше фото.
+2025-02-17 01:58:18 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - В блоке обработки фото, после успешных предыдущих пунктов.
+2025-02-17 01:58:19 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Лог из блока сохранения пользователя в БД (если файл фото).
+2025-02-17 01:58:19 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Размер загруженного файла: 9450. Пустой ли template: true
+2025-02-17 02:04:54 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - В конструкторе бота. Токен 7825815491:AAFmF-DF-vplBfOsOWIkb8NaLLGLjnVUlh8.
+2025-02-17 02:04:55 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 02:04:55 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 02:04:55 [restartedMain] INFO  o.lma_it.model.telegram.TelegramBot - Имя бота: UserDataToDocument
+2025-02-17 02:04:56 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Получено сообщение из update: /start utm_getjob
+2025-02-17 02:04:56 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Содержимое в parts: [/start, utm_getjob]
+2025-02-17 02:04:56 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Вы перешли по ссылке.
+2025-02-17 02:04:57 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в chatId: 58653195
+2025-02-17 02:04:58 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Значение в callbackQuery: processingOfPersonalData
+2025-02-17 02:04:58 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Приступим к регистрации для получения оффера в SNP Technology.
+Введите пожалуйста свое имя:
+2025-02-17 02:05:01 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Имя зарегистрировано.
+Ваше имя: Михаил
+Введите фамилию.
+2025-02-17 02:05:04 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Фамилия зарегистрирована.
+Ваша фамилия: Лубенцов
+Введите отчество.*
+2025-02-17 02:05:04 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: 
+*Не обязательное поле, можно ввести /skip для пропуска.
+2025-02-17 02:05:07 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Отчество зарегистрировано.
+Ваше отчество: Александрович
+Введите дату рождения в формате*: 'дд.мм.гггг.'.
+
+*Очень важно соблюдать формат.
+2025-02-17 02:05:12 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Ваша дата рождения: 1990-07-21
+2025-02-17 02:05:12 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Лог из блока регистрации пола.
+2025-02-17 02:05:14 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Отправка ответа пользователю из sendMessage. Сообщение: Ваш пол успешно сохранен.
+Ваш пол: Мужчина.
+Загрузите Ваше фото.
+2025-02-17 02:05:16 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - В блоке обработки фото, после успешных предыдущих пунктов.
+2025-02-17 02:05:17 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Лог из блока сохранения пользователя в БД (если файл фото).
+2025-02-17 02:05:17 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Размер загруженного файла: 9450. Пустой ли template: true
+2025-02-17 02:05:17 [UserDataToDocument Telegram Executor] INFO  o.lma_it.model.telegram.TelegramBot - Размер массива imageData он же image: 144358

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 17
+Implementation-Title: Telegram_Bot_for_SNP_Technology
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: org.lma_it.TelegramBotForSnpTechnologyApplication
+

@@ -1,0 +1,36 @@
+version: "3.8"
+
+services:
+
+  db:
+    image: mysql:8.3.0
+    container_name: mysql_db
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=1234
+      - MYSQL_DATABASE=telegramDB
+    ports:
+      - "3309:3306"
+    volumes:
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-p1234"]
+      interval: 10s
+      retries: 5
+      start_period: 20s
+
+
+  app:
+    build: .
+    volumes:
+      - ./target:/app/target
+    container_name: telegram_bot
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:mysql://db:3306/telegramDB
+      - SPRING_DATASOURCE_USERNAME=root
+      - SPRING_DATASOURCE_PASSWORD=1234
+    depends_on:
+        db:
+          condition: service_healthy
