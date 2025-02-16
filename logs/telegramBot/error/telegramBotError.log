@@ -37,3 +37,4 @@ java.lang.NullPointerException: Cannot invoke "java.io.File.getName()" because "
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
 	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
 	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2025-02-17 03:11:17 [UserDataToDocument Telegram Executor] ERROR o.lma_it.model.telegram.TelegramBot - Ошибка при попытке отправить сообщение с inline кнопками. Тип исключения: TelegramApiException. Причина: Unable to send photo

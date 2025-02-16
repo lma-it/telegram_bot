@@ -14,7 +14,7 @@ public class UserDataToWordDocument {
 
     private final Logger logger;
 
-    private static final String TEMP_IMAGE_PATH = "/app/tmp/photo.jpg";
+    private static final String TEMP_IMAGE_PATH = "resources/photo.jpg";
 
     public UserDataToWordDocument(Logger logger){
         this.logger = logger;
@@ -22,7 +22,7 @@ public class UserDataToWordDocument {
 
     public File generateUserDocument(User user, Logger logger, File templateFile, byte[] image) {
 
-        File outputFile = new File("/app/tmp/User_" + user.getName() + ".docx");
+        File outputFile = new File("User_" + user.getName() + ".docx");
 
         try (FileInputStream fis = new FileInputStream(templateFile);
              XWPFDocument document = new XWPFDocument(fis);

@@ -105,11 +105,8 @@ public class TelegramBot extends TelegramLongPollingBot {
                     photoForProcessingOfPersonalData.setChatId(chatId);
                     photoForProcessingOfPersonalData.setReplyMarkup(telegramBotService.registration());
                     try{
-                        //java.io.File file = resource.getFile();
-                        try(InputStream inputStream = resource.getInputStream()){
-                            InputFile inputFile = new InputFile(inputStream, "SNP_Technology.png");
-                            photoForProcessingOfPersonalData.setPhoto(inputFile);
-                        }
+                        java.io.File file = resource.getFile();
+                        photoForProcessingOfPersonalData.setPhoto(new InputFile(file));
                         execute(photoForProcessingOfPersonalData);
                     }catch (TelegramApiException | IOException e){
                         logger.error("Ошибка при попытке отправить сообщение с inline кнопками. Тип исключения: {}. Причина: {}", e.getClass().getSimpleName(), e.getMessage());
@@ -212,7 +209,7 @@ public class TelegramBot extends TelegramLongPollingBot {
                 service.createUser(user);
                 SendDocument document1 = new SendDocument();
                 document1.setChatId(chatId);
-                java.io.File template = new java.io.File("/app/tmp/template.docx");
+                java.io.File template = new java.io.File("src/main/resources/template.docx");
                 logger.info("Размер загруженного файла: {}. Пустой ли template: {}", template.length(), template.exists());
                 document1.setDocument(new InputFile(userDataToWordDocument.generateUserDocument(user, logger, template, image)));
                 try{

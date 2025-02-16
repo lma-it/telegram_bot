@@ -46,3 +46,11 @@
 2025-02-17 02:04:55 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - В блоке инициализации бота.
 2025-02-17 02:04:55 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - Инициализация бота: org.lma_it.model.telegram.TelegramBot@4fc03b0a
 2025-02-17 02:04:55 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - Инициализация прошла успешно.
+2025-02-17 03:11:04 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - Инициализация TelegramBotInitializer.
+2025-02-17 03:11:04 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - В блоке инициализации бота.
+2025-02-17 03:11:04 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - Инициализация бота: org.lma_it.model.telegram.TelegramBot@526dd2d6
+2025-02-17 03:11:05 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - Инициализация прошла успешно.
+2025-02-17 03:13:52 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - Инициализация TelegramBotInitializer.
+2025-02-17 03:13:52 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - В блоке инициализации бота.
+2025-02-17 03:13:52 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - Инициализация бота: org.lma_it.model.telegram.TelegramBot@4bcc406c
+2025-02-17 03:13:53 [restartedMain] INFO  o.l.u.config.TelegramBotInitializer - Инициализация прошла успешно.
